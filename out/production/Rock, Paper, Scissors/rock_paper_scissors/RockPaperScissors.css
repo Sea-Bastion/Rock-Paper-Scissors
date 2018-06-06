@@ -1,0 +1,14 @@
+.root {
+    -fx-background-color: #FFFFFF
+}
+
+.image-view:hover {
+    -fx-rotate: 90;
+    -fx-border-color: Black;
+    -fx-border-width: 3;
+    -fx-border-radius: 5
+}
+
+.image-view {
+
+}
